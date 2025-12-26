@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868752159918",
+    "project_id": "foodtracker-da092",
+    "storage_bucket": "foodtracker-da092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868752159918:android:9e7802142f4ae39535a93f",
+        "android_client_info": {
+          "package_name": "com.example.barcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIk4hExAtq8GeqQ6E8OTjhAWUuTOKqGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
